@@ -1,5 +1,3 @@
-# Lynn-Ai-tools
-Tools to consider using for new builds
 # Lynn-Ai-Tools
 
 A curated collection of AI tools, skills, and resources used across Lynn's business ventures.
